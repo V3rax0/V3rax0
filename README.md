@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ver4x
 - 👀 I’m interested in hacking, Linux, programming
 - 🌱 I’m currently learning Linux, Java and C
-- 💞️ I’m looking to collaborate on proyect open source
+- 💞️ I’m looking to collaborate on proyects open source
 - 📫 How to reach me juangeek@gmail.com
