@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @JuanGeek33
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-JuanGeek33/JuanGeek33 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @Ver4x
+- 👀 I’m interested in hacking, Linux, programming
+- 🌱 I’m currently learning Linux, Java and C
+- 💞️ I’m looking to collaborate on proyect open source
+- 📫 How to reach me juangeek@gmail.com
